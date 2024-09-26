@@ -25,3 +25,9 @@
     font-size: 24px;
     font-family: Arial, sans-serif;
 }
+
+#wrapper_center {
+    border: solid 3px;
+    width: 500px;
+    margin: 0 auto; /* top 0 right buttom left (auto) through the browser*/
+}
