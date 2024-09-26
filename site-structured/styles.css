@@ -9,6 +9,8 @@
 }
 
 #n_header {
+    background-image: url('images/css-background-image.jpg');
+    background-position: top center;
     background-color: purple;
     padding: 25px;
 }
