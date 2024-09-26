@@ -9,9 +9,10 @@
 }
 
 #n_header {
-    background-image: url('images/css-background-image.jpg');
+    /* background-image: url('images/css-background-image.jpg');
     background-position: top center;
-    background-color: purple;
+    background-color: purple; */
+    background: url('images/css-background-image.jpg') top center purple;
     padding: 25px;
 }
 
@@ -22,6 +23,7 @@ h1 {
 #n_paragraph {
     background-image: url('images/grainy-gradient-background-red-white-blue-colors-with-soft-faded-watercolor.avif');
     background-attachment: fixed;
+    background-position: top left;
     background-color: #2980b9;
     height: 350px;
     padding: 30px;
@@ -43,6 +45,7 @@ h1 {
 }
 
 .my_image {
+    border: dashed 3px blue;
     margin-top: 30px;
     width: 300px;
     height: 200px;
