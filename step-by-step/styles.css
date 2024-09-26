@@ -1,3 +1,9 @@
+*{
+    color: blue;
+    margin: 0;
+    padding: 0;
+}
+
 #website_header {
     color: blue;
     font-size: 35px;
@@ -30,4 +36,5 @@
     border: solid 3px;
     width: 500px;
     margin: 0 auto; /* top 0 right buttom left (auto) through the browser*/
+    padding-left: 20px;
 }
