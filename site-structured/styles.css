@@ -20,6 +20,8 @@ h1 {
 }
 
 #n_paragraph {
+    background-image: url('images/grainy-gradient-background-red-white-blue-colors-with-soft-faded-watercolor.avif');
+    background-attachment: fixed;
     background-color: #2980b9;
     height: 350px;
     padding: 30px;
